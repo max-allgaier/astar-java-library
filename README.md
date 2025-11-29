@@ -1,6 +1,9 @@
 # astar-java-library
 Flexible A* pathfinding Java library.
 
+## Requirements
+Java 8+
+
 ## Installation
 Coming soon...
 

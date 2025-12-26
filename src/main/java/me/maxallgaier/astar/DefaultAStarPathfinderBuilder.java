@@ -2,7 +2,6 @@ package me.maxallgaier.astar;
 
 import me.maxallgaier.astar.close.ClosedPositionsCollection;
 import me.maxallgaier.astar.cost.CostCalculator;
-import me.maxallgaier.astar.cost.CostCalculators;
 import me.maxallgaier.astar.movement.MovementController;
 import me.maxallgaier.astar.open.OpenNodesQueue;
 import me.maxallgaier.astar.position.Position;

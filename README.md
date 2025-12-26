@@ -4,9 +4,6 @@ Flexible A* pathfinding Java library.
 ## Requirements
 Java 8+
 
-## Installation
-Coming soon...
-
 ## Usage
 To use this library, follow these steps:
 1. Implement a custom Position 
